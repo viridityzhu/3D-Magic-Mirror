@@ -215,12 +215,23 @@ python template-change-animation.py
 
 - `em_step` is the initial moving speed, which is decay by 0.99 during training. by default 0.1
 
-## 🔗 Ecosystem
+## 🔗 Related Projects
 
 <p align="center"><i>Explore our ecosystem for Object Re-Identification 🔍</i></p>
 
 <div align="center">
   <table>
+    <tr>
+      <td align="center" colspan="3">
+        <a href="https://github.com/layumi/Person_reID_baseline_pytorch">
+          <h3>⛹️</h3>
+          <b>Person re-ID Baseline (PyTorch)</b>
+        </a>
+        <br><sub>A <b>Tiny, Friendly & Strong</b> PyTorch Baseline for Person / Vehicle Re-ID<br>with Hands-on Tutorial · The Community Standard since 2017</sub>
+        <br><br>
+        <a href="https://github.com/layumi/Person_reID_baseline_pytorch"><img src="https://img.shields.io/github/stars/layumi/Person_reID_baseline_pytorch.svg?style=social&label=Star" alt="GitHub stars"></a>
+      </td>
+    </tr>
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/layumi/3D-Magic-Mirror">
